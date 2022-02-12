@@ -1,0 +1,1 @@
+https://superuser.com/questions/1426949/scripting-connecting-disconnecting-a-paired-bluetooth-device
